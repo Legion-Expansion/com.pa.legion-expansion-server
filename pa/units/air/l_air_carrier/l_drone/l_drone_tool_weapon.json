@@ -13,6 +13,7 @@
   ],
   "target_priorities": [
     "Commander",
+    "AirDefense",
     "Air",
     "Mobile",
     "Structure - Wall",

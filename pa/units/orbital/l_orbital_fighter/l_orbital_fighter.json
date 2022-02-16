@@ -11,6 +11,7 @@
       ]
     }
   },
+  "attack_range_frac": 0.5,
   "base_spec": "/pa/units/orbital/base_orbital/base_orbital.json",
   "build_metal_cost": 350,
   "command_caps": [
@@ -63,7 +64,6 @@
   },
   "navigation": {
     "acceleration": 65,
-    "aggressive_behavior": "point",
     "bank_factor": 1,
     "brake": 20,
     "circle_max_time": 4,
@@ -90,6 +90,11 @@
     "diameter": -30
   },
   "tools": [
+    {
+      "aim_bone": "bone_body",
+      "muzzle_bone": "socket_muzzle",
+      "spec_id": "/pa/units/orbital/l_orbital_fighter/l_orbital_fighter_tool_fix_range.json"
+    },
     {
       "aim_bone": "bone_body",
       "muzzle_bone": "socket_muzzle",
