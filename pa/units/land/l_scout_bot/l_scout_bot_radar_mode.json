@@ -121,7 +121,7 @@
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 350,
+          "radius": 300,
           "shape": "capsule",
           "uses_energy": true
         },
@@ -135,7 +135,7 @@
         {
           "channel": "radar",
           "layer": "underwater",
-          "radius": 350,
+          "radius": 300,
           "shape": "capsule",
           "uses_energy": true
         }
