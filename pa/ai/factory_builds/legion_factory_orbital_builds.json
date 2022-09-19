@@ -6,7 +6,10 @@
       "instance_count": 1,
       "priority": 199,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryBasicOrbital", "LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital",
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -110,7 +113,10 @@
       "to_build": "LegionOrbitalBasicRadar",
       "instance_count": 1,
       "priority": 100,
-      "builders": ["LegionFactoryBasicOrbital", "LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital",
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -144,7 +150,10 @@
       "to_build": "LegionOrbitalBasicRadar",
       "instance_count": 1,
       "priority": 102,
-      "builders": ["LegionFactoryBasicOrbital", "LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital",
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -174,7 +183,10 @@
       "shared_instance_count": "ReconAssistance",
       "cross_planet_shared_count": true,
       "priority": 199,
-      "builders": ["LegionFactoryBasicOrbital", "LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital",
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -203,7 +215,10 @@
       "instance_count": 1,
       "priority": 100,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryBasicOrbital", "LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital",
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -231,7 +246,9 @@
       "priority": 200,
       "min_num_assisters": 2,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryBasicOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -287,7 +304,9 @@
       "instance_count": 1,
       "priority": 0,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryBasicOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -313,7 +332,10 @@
       "shared_instance_count": "ReconAssistance",
       "cross_planet_shared_count": true,
       "priority": 200,
-      "builders": ["LegionFactoryBasicOrbital", "LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryBasicOrbital",
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -341,7 +363,9 @@
       "to_build": "LegionOrbitalAdvancedLaser",
       "instance_count": 1,
       "priority": 195,
-      "builders": ["LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -367,7 +391,9 @@
       "shared_instance_count": "ReconAssistance",
       "cross_planet_shared_count": true,
       "priority": 196,
-      "builders": ["LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -419,7 +445,9 @@
       "instance_count": 1,
       "priority": 195,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -447,7 +475,9 @@
       "priority": 205,
       "min_num_assisters": 2,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {
@@ -503,7 +533,9 @@
       "instance_count": 1,
       "priority": 195,
       "max_num_assisters": 5,
-      "builders": ["LegionFactoryAdvancedOrbital"],
+      "builders": [
+        "LegionFactoryAdvancedOrbital"
+      ],
       "build_conditions": [
         [
           {

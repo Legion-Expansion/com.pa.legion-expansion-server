@@ -6,7 +6,9 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
           {
@@ -21,7 +23,9 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
           {
@@ -35,9 +39,15 @@
       "to_build": "LegionBotBasicAA",
       "instance_count": 1,
       "priority": 100,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
+          {
+            "test_type": "EnemyAirPresenceOnPlanet",
+            "boolean": true
+          },
           {
             "test_type": "CanAffordBuildDemand"
           }
@@ -50,7 +60,9 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
           {
@@ -65,7 +77,9 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
           {
@@ -80,7 +94,26 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
+      "build_conditions": [
+        [
+          {
+            "test_type": "CanAffordBuildDemand"
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Legion - Advanced Assault Bot",
+      "to_build": "LegionBotAdvancedAssault",
+      "instance_count": -1,
+      "priority": 100,
+      "max_num_assisters": 10,
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
           {
@@ -95,9 +128,15 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
+          {
+            "test_type": "EnemyAirPresenceOnPlanet",
+            "boolean": true
+          },
           {
             "test_type": "CanAffordBuildDemand"
           }
@@ -110,7 +149,9 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionOrbitalAdvancedCannon"],
+      "builders": [
+        "LegionOrbitalAdvancedCannon"
+      ],
       "build_conditions": [
         [
           {

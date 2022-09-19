@@ -233,7 +233,10 @@
       "priority": 477,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
-      "builders": ["LegionNavalBasicFabber", "LegionNavalAdvancedFabber"],
+      "builders": [
+        "LegionNavalBasicFabber",
+        "LegionNavalAdvancedFabber"
+      ],
       "build_conditions": [
         [
           {
@@ -292,7 +295,10 @@
       "priority": 525,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
-      "builders": ["LegionNavalBasicFabber", "LegionNavalAdvancedFabber"],
+      "builders": [
+        "LegionNavalBasicFabber",
+        "LegionNavalAdvancedFabber"
+      ],
       "build_conditions": [
         [
           {

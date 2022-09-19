@@ -591,7 +591,10 @@
       "priority": 477,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
-      "builders": ["LegionVehicleBasicFabber", "LegionVehicleAdvancedFabber"],
+      "builders": [
+        "LegionVehicleBasicFabber",
+        "LegionVehicleAdvancedFabber"
+      ],
       "build_conditions": [
         [
           {
@@ -739,7 +742,10 @@
       "priority": 525,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
-      "builders": ["LegionVehicleBasicFabber", "LegionVehicleAdvancedFabber"],
+      "builders": [
+        "LegionVehicleBasicFabber",
+        "LegionVehicleAdvancedFabber"
+      ],
       "build_conditions": [
         [
           {
