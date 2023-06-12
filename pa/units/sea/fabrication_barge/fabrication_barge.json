@@ -24,8 +24,9 @@
       ]
     }
   },
-  "buildable_types": "(CombatFabBuild) - Custom1 - Custom2 - Custom3 - Custom4",
+  "buildable_types": "CombatFabBuild & Custom58",
   "unit_types": [
+    "UNITTYPE_Custom58",
     "UNITTYPE_Offense",
     "UNITTYPE_Construction",
     "UNITTYPE_Naval",
