@@ -31,7 +31,7 @@
   ],
   "model": {
     "animations": {
-      "idle": "/pa/units/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv_idle.papa"
+      "fire": "/pa/units/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv_anim_fire.papa"
     },
     "animtree": "/pa/anim/anim_trees/l_torpedo_launcher_adv_anim_tree.json",
     "filename": "/pa/units/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv.papa"
@@ -75,12 +75,9 @@
       "aim_bone": "bone_turret",
       "fire_event": "fired0",
       "muzzle_bone": [
-        "gun01",
-        "gun02",
-        "gun03",
-        "gun04",
-        "gun05",
-        "gun06"
+        "socket_muzzle001",
+        "socket_muzzle002",
+        "socket_muzzle003"
       ],
       "projectiles_per_fire": 3,
       "record_index": 0,
