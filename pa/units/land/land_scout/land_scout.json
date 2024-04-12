@@ -4,6 +4,7 @@
   "description": "!LOC:Scout - Fast. Can see far away and detects mines. Does not attack.",
   "max_health": 10,
   "build_metal_cost": 75,
+  "guard_layer": "WL_AnySurface",
   "attachable": {
     "offsets": {
       "root": [
@@ -22,7 +23,16 @@
     "ORDER_Move",
     "ORDER_Patrol",
     "ORDER_Assist",
-    "ORDER_Use"
+    "ORDER_Use",
+    "ORDER_Attack"
+  ],
+  "tools": [
+    {
+      "spec_id": "/pa/units/land/land_scout/land_scout_tool_dummy_weapon.json",
+      "aim_bone": "bone_root",
+      "muzzle_bone": "bone_root",
+      "show_range": false
+    }
   ],
   "unit_types": [
     "UNITTYPE_Custom58",
