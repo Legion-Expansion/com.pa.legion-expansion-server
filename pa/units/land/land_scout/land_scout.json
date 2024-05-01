@@ -47,6 +47,7 @@
   "transportable": {
     "size": 1
   },
+  "guard_radius": 0,
   "navigation": {
     "type": "land-small",
     "acceleration": 250,
@@ -101,8 +102,8 @@
       "audio_cue": "/SE/Build_Complete/veh"
     },
     "fired": {
-      "audio_cue": "/SE/Weapons/veh/land_scout_fire",
-      "effect_spec": "/pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzle"
+      "audio_cue": "",
+      "effect_spec": ""
     },
     "died": {
       "audio_cue": "/SE/Death/Veh_small",
