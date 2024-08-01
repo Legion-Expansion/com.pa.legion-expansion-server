@@ -138,7 +138,6 @@
   ],
   "unit_types": [
     "UNITTYPE_Structure",
-    "UNITTYPE_Basic",
     "UNITTYPE_Land",
     "UNITTYPE_Defense",
     "UNITTYPE_CombatFabBuild",
