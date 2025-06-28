@@ -6,9 +6,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -23,9 +21,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -39,9 +35,7 @@
       "to_build": "LegionBotBasicAA",
       "instance_count": 1,
       "priority": 100,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -60,9 +54,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -77,9 +69,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -94,9 +84,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -111,9 +99,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -128,9 +114,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {
@@ -149,9 +133,7 @@
       "instance_count": -1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": [
-        "LegionOrbitalAdvancedCannon"
-      ],
+      "builders": ["LegionOrbitalAdvancedCannon"],
       "build_conditions": [
         [
           {

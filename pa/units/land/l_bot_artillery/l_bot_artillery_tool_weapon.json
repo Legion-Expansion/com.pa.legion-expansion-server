@@ -1,5 +1,5 @@
 {
-  "ammo_capacity": 7,
+  "ammo_capacity": 8,
   "ammo_demand": 1,
   "ammo_id": "/pa/units/land/l_bot_artillery/l_bot_artillery_ammo.json",
   "ammo_per_shot": 4,
@@ -18,11 +18,7 @@
   "pitch_range": 90,
   "pitch_rate": 360,
   "rate_of_fire": 1,
-  "target_layers": [
-    "WL_LandHorizontal",
-    "WL_Seafloor",
-    "WL_WaterSurface"
-  ],
+  "target_layers": ["WL_LandHorizontal", "WL_Seafloor", "WL_WaterSurface"],
   "target_priorities": [
     "Structure & SurfaceDefense",
     "Structure & Defense",

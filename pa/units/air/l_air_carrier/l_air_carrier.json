@@ -109,17 +109,18 @@
       "type": "idle"
     }
   ],
-  "max_health": 2000,
-  "mesh_bounds": [
-    13,
-    18,
-    8
-  ],
+  "max_health": 750,
+  "mesh_bounds": [13, 18, 8],
   "model": {
     "arrows": 5,
     "filename": "/pa/units/air/l_air_carrier/l_air_carrier.papa"
   },
   "navigation": {
+    "aggressive_behavior": "circle",
+    "aggressive_distance": 230,
+    "bank_factor": 2,
+    "circle_max_time": 20.0,
+    "circle_min_time": 10.0,
     "acceleration": 30,
     "brake": 30,
     "dodge_multiplier": 1,
@@ -159,18 +160,14 @@
     {
       "aim_bone": "socket_muzzleLeft",
       "fire_event": "fired",
-      "muzzle_bone": [
-        "socket_muzzleLeft"
-      ],
+      "muzzle_bone": ["socket_muzzleLeft"],
       "record_index": 0,
       "spec_id": "/pa/units/air/l_air_carrier/l_air_carrier_tool_weapon.json"
     },
     {
       "aim_bone": "socket_muzzleRight",
       "fire_event": "fired1",
-      "muzzle_bone": [
-        "socket_muzzleRight"
-      ],
+      "muzzle_bone": ["socket_muzzleRight"],
       "record_index": 1,
       "spec_id": "/pa/units/air/l_air_carrier/l_air_carrier_tool_weapon.json"
     }
