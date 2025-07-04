@@ -21,5 +21,8 @@
   "auto_attack": true,
   "self_destruct": true,
   "no_busy_auto_attack": false,
-  "target_layers": ["WL_LandHorizontal", "WL_WaterSurface"]
+  "target_layers": [
+    "WL_LandHorizontal",
+    "WL_WaterSurface"
+  ]
 }

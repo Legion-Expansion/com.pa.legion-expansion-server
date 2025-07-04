@@ -6,7 +6,9 @@
       "instance_count": 1,
       "priority": 100,
       "max_num_assisters": 10,
-      "builders": ["LegionFactoryBasicAir"],
+      "builders": [
+        "LegionFactoryBasicAir"
+      ],
       "build_conditions": [
         [
           {
@@ -42,7 +44,9 @@
       "instance_count": -1,
       "priority": 97,
       "max_num_assisters": 10,
-      "builders": ["LegionFactoryBasicAir"],
+      "builders": [
+        "LegionFactoryBasicAir"
+      ],
       "build_conditions": [
         [
           {
@@ -107,7 +111,9 @@
       "instance_count": -1,
       "priority": 97,
       "max_num_assisters": 10,
-      "builders": ["LegionFactoryBasicAir"],
+      "builders": [
+        "LegionFactoryBasicAir"
+      ],
       "build_conditions": [
         [
           {
@@ -133,7 +139,9 @@
       "instance_count": -1,
       "priority": 97,
       "max_num_assisters": 10,
-      "builders": ["LegionFactoryBasicAir"],
+      "builders": [
+        "LegionFactoryBasicAir"
+      ],
       "build_conditions": [
         [
           {
@@ -167,7 +175,9 @@
       "instance_count": 1,
       "shared_instance_count": "AirScout",
       "priority": 98,
-      "builders": ["LegionFactoryBasicAir"],
+      "builders": [
+        "LegionFactoryBasicAir"
+      ],
       "build_conditions": [
         [
           {
@@ -230,7 +240,9 @@
       "shared_instance_count": "AirScout",
       "priority": 97,
       "max_num_assisters": 10,
-      "builders": ["LegionFactoryBasicAir"],
+      "builders": [
+        "LegionFactoryBasicAir"
+      ],
       "build_conditions": [
         [
           {
@@ -264,7 +276,9 @@
       "instance_count": 1,
       "priority": 200,
       "max_num_assisters": 15,
-      "builders": ["LegionFactoryAdvancedAir"],
+      "builders": [
+        "LegionFactoryAdvancedAir"
+      ],
       "build_conditions": [
         [
           {
@@ -301,7 +315,9 @@
       "to_build": "LegionAirAdvancedScout",
       "instance_count": 1,
       "priority": 199,
-      "builders": ["LegionFactoryAdvancedAir"],
+      "builders": [
+        "LegionFactoryAdvancedAir"
+      ],
       "build_conditions": [
         [
           {
@@ -384,7 +400,9 @@
       "instance_count": -1,
       "priority": 198,
       "max_num_assisters": 15,
-      "builders": ["LegionFactoryAdvancedAir"],
+      "builders": [
+        "LegionFactoryAdvancedAir"
+      ],
       "build_conditions": [
         [
           {
@@ -449,7 +467,9 @@
       "instance_count": -1,
       "priority": 198,
       "max_num_assisters": 15,
-      "builders": ["LegionFactoryAdvancedAir"],
+      "builders": [
+        "LegionFactoryAdvancedAir"
+      ],
       "build_conditions": [
         [
           {
@@ -483,7 +503,9 @@
       "instance_count": -1,
       "priority": 198,
       "max_num_assisters": 15,
-      "builders": ["LegionFactoryAdvancedAir"],
+      "builders": [
+        "LegionFactoryAdvancedAir"
+      ],
       "build_conditions": [
         [
           {
@@ -517,7 +539,9 @@
       "instance_count": -1,
       "priority": 198,
       "max_num_assisters": 10,
-      "builders": ["LegionFactoryAdvancedAir"],
+      "builders": [
+        "LegionFactoryAdvancedAir"
+      ],
       "build_conditions": [
         [
           {
