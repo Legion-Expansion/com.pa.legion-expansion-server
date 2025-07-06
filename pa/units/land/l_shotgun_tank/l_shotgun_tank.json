@@ -7,7 +7,7 @@
       "head": [
         0,
         0,
-        4.4
+        4.3
       ],
       "root": [
         0,
@@ -42,11 +42,11 @@
     }
   },
   "guard_layer": "WL_AnySurface",
-  "max_health": 1250,
+  "max_health": 1150,
   "mesh_bounds": [
-    6.5,
-    7.5,
-    4
+    5.5,
+    6,
+    4.5
   ],
   "model": {
     "animtree": "/pa/anim/anim_trees/tank_armor_anim_tree.json",
